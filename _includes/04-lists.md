@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+> Some of my favorite things
+* Time with my grandson
+* Helping people
+* Learning
+* Working
+* Hot Breakfast
