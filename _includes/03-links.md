@@ -1,0 +1,5 @@
+* [My Github Profile](https://github.com/jimgates)
+* [LinkedIn](https://www.linkedin.com/in/jimgatesal/)
+* [My Website](http://www.gates2m.com)
+* [My Blog](http://abetterman.us/)
+* [Church Site](https://cityhope.cc)
